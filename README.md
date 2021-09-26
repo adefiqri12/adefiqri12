@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ade Fiqri
+- 👀 I’m interested in UI, AI, and image processing
+- 🌱 I’m currently learning Web, UI, and AI
+- 📫 You can dm me in IG: @adefiqr
