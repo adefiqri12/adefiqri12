@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ade Fiqri
-- 👀 I’m interested in UI, AI, and image processing
-- 🌱 I’m currently learning Machine Learning, Image Processing, and Computer Vision
-- 📫 You can dm me in IG: @adefiqr
+- 🌱 I’m currently learning on Computer Vision, Natural Language Processing, Swarm Intelligence, and Deep Reinforcement Learning
+- 📫 linkedin: Ade Fiqri
