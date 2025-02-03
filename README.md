@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade Fiqri</h1>
-<h3 align="center">AI Engineer from <img src="https://flagcdn.com/id.svg" alt="Indonesia" width="22"/> <b>Samarinda, Indonesia</b></h3>
+<h3 align="center">AI Engineer from <img src="https://flagcdn.com/id.svg" alt="Indonesia" width="21"/> <b>Samarinda, Indonesia</b></h3>
 
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
