@@ -3,14 +3,14 @@
 
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
-- 📫 How to reach me [![](https://img.shields.io/badge/Gmail-adefiqri-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:adefiqri5@gmail.com) &ensp;
+- 📫 How to reach me <a href="mailto:adefiqri5@gmail.com"><img src="https://img.shields.io/badge/Gmail-adefiqri-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" align="center"/></a>
 
 <h3 align="left">Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/ade-fiqri-80620014b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/adefiqri12" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/adefiqri12" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=dPpY9jcAAAAJ&hl" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/GoogleScholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=dPpY9jcAAAAJ&hl" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Google&ensp;Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
