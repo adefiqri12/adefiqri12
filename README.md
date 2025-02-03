@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade Fiqri</h1>
-<h3 align="center">A AI Engineer from Samarinda, Indonesia</h3>
+<h3 align="center">AI Engineer from Samarinda, Indonesia</h3>
 
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
