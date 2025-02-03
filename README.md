@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  [![Mealpy](https://img.shields.io/badge/Mealpy-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/thieu1995/mealpy)
+  <a href="https://github.com/thieu1995/mealpy">
+    <img src="https://img.shields.io/badge/Mealpy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Mealpy">
+  </a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
