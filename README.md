@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ade Fiqri</h1>
-<h3 align="center">AI Engineer from Samarinda, Indonesia</h3>
-
+<h3 align="center">AI Engineer from <img src="https://flagcdn.com/id.svg" alt="Indonesia" width="22"/> <b>Samarinda, Indonesia<b></h3>
+https://flagcdn.com/id.svg
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
 - 📫 How to reach me <a href="mailto:adefiqri5@gmail.com"><img src="https://img.shields.io/badge/Gmail-adefiqri-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" align="center"/></a>
@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=dPpY9jcAAAAJ&hl" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Google&ensp;Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
