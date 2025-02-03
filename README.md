@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ade Fiqri</h1>
-<h3 align="center">AI Engineer from <img src="https://flagcdn.com/id.svg" alt="Indonesia" width="22"/> <b>Samarinda, Indonesia<b></h3>
-https://flagcdn.com/id.svg
+<h3 align="center">AI Engineer from <img src="https://flagcdn.com/id.svg" alt="Indonesia" width="22"/> <b>Samarinda, Indonesia</b></h3>
+
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
 - 📫 How to reach me <a href="mailto:adefiqri5@gmail.com"><img src="https://img.shields.io/badge/Gmail-adefiqri-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" align="center"/></a>
