@@ -28,3 +28,5 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"></a>
 <p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adefiqri12&label=Profile%20views&color=blue&style=flat" alt="adefiqri12" /> </p>
