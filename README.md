@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Computer Vision, LLM, and Swarm Intelligence**
 
-- 📫 How to reach me <a href="mailto:adefiqri5@gmail.com"><img src="https://img.shields.io/badge/Gmail-adefiqri5-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" align="center"/></a>
+- 📫 How to reach me <a href="mailto:ade.fiqri1@gmail.com"><img src="https://img.shields.io/badge/Gmail-adefiqri-grey?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white" align="center"/></a>
 
 <h3 align="left">Where to find me</h3>
 <p>
